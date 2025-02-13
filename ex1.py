@@ -9,4 +9,4 @@ if age <100:
   else :
     print ("ticket price is 20$")
 else:
-  print ("Go rest in your grave")
+  print ("Go rest in your grave ")
